@@ -5,6 +5,13 @@ Here is the command to run the script:
 ```
 bash docker-script
 ```
+Then close and re-open the terminal window and type:
+```
+Gcloud auth login
+```
+To use Gcloud from terminal.
+
+
 Note: If you are installing on Ubuntu 14.04 or 12.04, apparmor is required. You can install it using: 
 ```
 apt-get install apparmor
