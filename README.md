@@ -9,6 +9,7 @@ https://docs.google.com/document/d/1aYoDIELLhPqKYOIpYiyrlF_LWctIdsG5SkYtvU6AGLA/
 * An hour or so to play with the results.  Note that we're certain that you won't learn anything if you just use the script provided here.  This is here because sometimes, people neeed to do things like this, quickly.  Do the steps step by step, that's how they can stick in your mind.  
 
 
+####Software installed on your Local PC
 * Docker Engine 
 * Docker-Machine v0.8.0-rc1
 * Docker-Compose v1.8.0-rc1
